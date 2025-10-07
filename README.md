@@ -1,5 +1,7 @@
 # MWAD-EXP_04-Simple-caluculator
-## Date:
+## Date: 07-10-2025
+## NAME: HARIPRASHAAD RA
+## REGISTER NUMBER : 212223040060
 
 ## AIM
 To  develop a Simple Calculator using React.js with clean and responsive design, ensuring a smooth user experience across different screen sizes.
@@ -46,7 +48,12 @@ Deploy the website.
 Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
-
+### HTML
+```
+```
+### CSS
+```
+```
 
 ## OUTPUT
 
